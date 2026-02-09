@@ -32,7 +32,7 @@ The `Code/` folder contains runnable implementations (depending on the actual fi
 
 * **Paragraph-level multi-label classification (Stage 1):** supervised fine-tuning (Sup-FT) and explanation-enhanced variants
 * **Prompt-A / Iter-Ens:** multi-agent / prompted detection and iterative ensembling (voting) workflows
-* **Character-level span localization (Stage 2):** locating the exact text spans within paragraphs predicted as positive in Stage 1
+* **Character-level span localization (Stage 2):** locating the exact text spans 
 * Data loading, format conversion, visualization, and utility scripts
 
 ---
