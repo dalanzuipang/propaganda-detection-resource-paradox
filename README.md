@@ -17,7 +17,7 @@ This repository provides the open-source materials accompanying the paper. It in
 
 ### Appendix/ (Supplementary Materials)
 
-The `Appendix/` folder contains all materials that **cannot be fully included in the main paper**, for example (depending on the actual files):
+The `Appendix/` folder contains all materials that **cannot be fully included in the main paper**, for example:
 
 * Detailed result tables by language / method / setting (per-class, per-language, per-configuration)
 * Ablation studies and additional comparison experiment tables
