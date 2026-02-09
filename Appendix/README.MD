@@ -2,7 +2,7 @@
 
 ## Overview
 
-This document provides a comprehensive guide to the supplementary appendices for the UMAP 2026 paper:
+This document provides a comprehensive guide to the supplementary appendices for the work:
 
 **"Resource Paradox and Cultural-Linguistic Adaptation in Propaganda Detection in Slavic Languages vs. English"**
 
