@@ -10,7 +10,7 @@ It implements a **two-stage pipeline** for persuasion/propaganda technique detec
   - **Sup-FT**: supervised fine-tuning with an XLM-RoBERTa-based classifier (including an explanation-aware dual-encoder variant)
   - **Prompt-A**: zero-shot prompted *multi-agent* detection (one agent per technique + coordinator)
   - **Iter-Ens**: multi-round sampling + voting to improve robustness/recall
-- **Stage 2 (Character-level):** LLM-based span localization within paragraphs predicted positive in Stage 1. It prompts GPT-4o-mini to output JSON spans and applies confidence filtering (≥ 0.7) + post-processing.
+- **Stage 2 (Character-level):** LLM-based span localization . It prompts GPT-4o-mini to output JSON spans and applies confidence filtering (≥ 0.7) + post-processing.
 
 ---
 
